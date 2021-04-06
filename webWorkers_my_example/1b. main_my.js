@@ -15,7 +15,7 @@ export default function(url) {
   const onError = e => console.log(`error at the ${e.filename}, Line: ${e.lineno}, Message: ${e.message}`);
   workerInstance.addEventListener('error', onError, false);
 
-  //прием потока вверх из воркера
+  //прием потока вверх из воркера =>> запуск его колбэка, который прописан в index.js
   workerInstance.onmessage = function(event) {
     if (event.data instanceof Object &&
       event.data.hasOwnProperty('callbackName') &&
