@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a7b111-e526-4c62-bdab-ea1517b3f677" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/service_worker/1. theory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/2. жизненные циклы service_worker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/3. Network or cache.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/3_Network or cache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/4. Cache only.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/4_Cache only.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/5. Cache and update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/5_Cache and update.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/6.  Cache, update and refresh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/6_a_Cache, update and refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/6_b_Cache, update and refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/7. Embedded fallback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/7_a_Embedded fallback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service_worker/7_b_Embedded fallback.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main__best_practice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple-web-worker/worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webWorkers_my_example/1a. index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webWorkers_my_example/1b. main_my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webWorkers_my_example/1c. worker_my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/worker__best_practice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/workers/main_my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/src/workers/my.worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wworker_example (worker-plugin, = mapGetters), YES/vue.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/интеграция воркера to Vue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/интеграция_воркера_в_основной_поток.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/теория.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_worker/3. Network or cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/service_worker/3. Network or cache.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +47,7 @@
       <updated>1630182596511</updated>
       <workItem from="1630182597884" duration="20000" />
       <workItem from="1630182732031" duration="4031000" />
+      <workItem from="1634723771591" duration="2671000" />
     </task>
     <servers />
   </component>
